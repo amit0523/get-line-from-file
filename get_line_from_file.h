@@ -31,7 +31,8 @@
  * char *get_line_from_file(int fd, int *error_num):
  *
  * Function get_line_from_file() is an alternate implementation of C library's
- * getline() function.
+ * getline() function and this function is simpler to use than getline().
+ *
  *
  * Function get_line_from_file() returns a line from the file represented by fd.
  *
