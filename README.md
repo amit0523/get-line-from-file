@@ -1,5 +1,6 @@
 File get_line_from_file.c implements a function get_line_from_file() which is an
-alternate implementation of C library's getline() function.
+alternate implementation of C library's getline() function and this function is
+simpler to use than getline().
 
 Function get_line_from_file() returns a line from the file represented by fd.
 
